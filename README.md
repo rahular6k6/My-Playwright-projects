@@ -1,4 +1,4 @@
-# Sauce Demo Playwright POM
+# Sauce Demo E-Commerce site - Playwright POM
 
 This project uses Playwright Test with JavaScript and the Page Object Model to test
 https://www.saucedemo.com.
